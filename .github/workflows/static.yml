@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="styles.css" />
     <style>
         body {
-            background-image: url("\\192.168.13.151\d$\SKY\Macro codes\1.jpg");
+            background-image: url("https://github.com/Silamb1990/Silamb1990/blob/main/1.jpg");
             background-size: cover;
             background-repeat: no-repeat;
             display: flex;
